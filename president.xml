@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<racine>
+<president>
+    <image path="image/Charles_de_Gaulles.jpeg" />
+    <nom> Charles de Gaulles</nom>
+    <mandat>1959-1969</mandat>
+    <naissance>1890</naissance>
+    <status>1970</status>
+</president>
+<president>
+    <image path= "image/George_Pompidou.jpeg"/>
+    <nom>George Pompidou</nom>
+    <mandat>1969-1974 </mandat>
+    <naissance>1911 </naissance>
+    <status>1974 </status>
+</president>
+<president>
+    <image path= "image/Valérie_Giscard_Estaing.jpeg"/>
+    <nom> Valérie Giscard Estaing </nom>
+    <mandat>1974-1981 </mandat>
+    <naissance>1926 </naissance>
+    <status>2020 </status>
+</president>
+<president>
+    <image path= "image/François_Mitterand.jpeg"/>
+    <nom>François Mitterand</nom>
+    <mandat>1981-1995 </mandat>
+    <naissance>1916 </naissance>
+    <status>1996 </status>
+</president>
+<president>
+    <image path= "image/Jacques_Chirac.jpeg"/>
+    <nom>Jacques Chirac</nom>
+    <mandat>1997-2007</mandat>
+    <naissance>1932</naissance>
+    <status>2019</status>
+</president>
+<president>
+    <image path= "/image/Nicolas_Sarkozy.jpeg"/>
+    <nom>Nicolas Sarkozy </nom>
+    <mandat>2007-2012 </mandat>
+    <naissance>1955</naissance>
+    <status>Vivant</status>
+</president>
+<president>
+    <image path= "Image/François_hollande.jpeg"/>
+    <nom>François Hollande </nom>
+    <mandat>2012-2017 </mandat>
+    <naissance>1954 </naissance>
+    <status>Vivant </status>
+</president>
+<president>
+    <image path= "image/Emmanuel_Macron.jpeg"/>
+    <nom>Emmanuel Macron </nom>
+    <mandat>2017 Jusqu'a present </mandat>
+    <naissance>1976 </naissance>
+    <status>Trop Jeune </status>
+</president>
+</racine>
